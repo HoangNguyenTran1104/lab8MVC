@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MusicStore.Models.Genre>
+
+<ul id="categories" style="width:13%">
+    <div class="columnHeading hidden-xs hidden-sm">Search</div>
+
+    @using (Html.BeginForm("Index", "Home", FormMethod.Get))
+    {
+@Html.TextBox("Searchname", ViewBag.CurrentFilter as string, htmlAttributes: new { style = "width:95%;margin:5px auto;margin-left:10px" })
+                <input type="submit" value="search" class="btn btn-primary" style="width:60%;padding:6px;transform:translateX(30px); background-color: #56B69C; margin-bottom:10px" />
+}
+
+
+    @foreach (var genre in Model)
+    {
+<li>
+    @Html.ActionLink(genre.Name,
+             "Browse", "Store",
+             new { Genre = genre.Name }, null)
+</li>
+}
+
+
+    <p class="text-center" style="font-size:14px; font-style:italic; margin-top:10px;">
+        Menu cached at 6:38:54 AM
+
+    </p>
+    <p class="text-center">Home</p>
+</ul>
+

@@ -1,0 +1,378 @@
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\MusicStore.dll.config
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\MusicStore.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\MusicStore.pdb
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Antlr3.Runtime.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\EntityFramework.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\EntityFramework.SqlServer.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Google.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Newtonsoft.Json.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Owin.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.Helpers.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.Mvc.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.Optimization.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.Razor.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.WebPages.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\WebGrease.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.Helpers.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.Mvc.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.Optimization.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.Razor.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.WebPages.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Newtonsoft.Json.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Antlr3.Runtime.pdb
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\EntityFramework.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\EntityFramework.SqlServer.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Google.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\EntityFramework.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+E:\Programing\c#\Musicstore-ASP.NET-MVC5\MusicStore\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\MusicStore.dll.config
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\MusicStore.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\MusicStore.pdb
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Owin.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\WebGrease.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\obj\Debug\MusicStore.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\obj\Debug\MusicStore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\obj\Debug\MusicStore.csproj.CopyComplete
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+C:\Users\Asus\Desktop\Musicstore-ASP.NET-MVC5-master\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\MusicStore.dll.config
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\MusicStore.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\MusicStore.pdb
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Owin.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\WebGrease.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\obj\Debug\MusicStore.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\MusicStore\MusicStore\obj\Debug\MusicStore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MusicStore\MusicStore\obj\Debug\MusicStore.csproj.CopyComplete
+C:\Users\Asus\Desktop\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+C:\Users\Asus\Desktop\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\MusicStore.dll.config
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\MusicStore.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\MusicStore.pdb
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Antlr3.Runtime.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\EntityFramework.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Google.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Newtonsoft.Json.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Owin.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.Helpers.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.Mvc.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.Optimization.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.Razor.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.WebPages.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\WebGrease.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\EntityFramework.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.Helpers.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.Mvc.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.Optimization.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.Razor.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.WebPages.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Newtonsoft.Json.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Antlr3.Runtime.pdb
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Google.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\EntityFramework.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\obj\Debug\MusicStore.csprojAssemblyReference.cache
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\obj\Debug\MusicStore.csproj.CoreCompileInputs.cache
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\obj\Debug\MusicStore.csproj.CopyComplete
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+E:\ASP.NET MVC 5.0\Ta HUY\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+D:\C# project\New folder\MusicStore\MusicStore\bin\MusicStore.dll.config
+D:\C# project\New folder\MusicStore\MusicStore\bin\MusicStore.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\MusicStore.pdb
+D:\C# project\New folder\MusicStore\MusicStore\bin\Antlr3.Runtime.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\EntityFramework.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\EntityFramework.SqlServer.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Google.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Newtonsoft.Json.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\Owin.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.Helpers.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.Mvc.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.Optimization.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.Razor.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.WebPages.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\WebGrease.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\EntityFramework.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\EntityFramework.SqlServer.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.Helpers.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.Mvc.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.Optimization.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.Razor.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.WebPages.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Newtonsoft.Json.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Antlr3.Runtime.pdb
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Google.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\EntityFramework.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\C# project\New folder\MusicStore\MusicStore\obj\Debug\MusicStore.csprojAssemblyReference.cache
+D:\C# project\New folder\MusicStore\MusicStore\obj\Debug\MusicStore.csproj.CoreCompileInputs.cache
+D:\C# project\New folder\MusicStore\MusicStore\obj\Debug\MusicStore.csproj.CopyComplete
+D:\C# project\New folder\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+D:\C# project\New folder\MusicStore\MusicStore\obj\Debug\MusicStore.pdb

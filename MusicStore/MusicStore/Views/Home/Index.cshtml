@@ -1,0 +1,25 @@
+﻿@model MusicStore.ViewModels.HomeViewModel
+@{ Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Index"; }
+
+@* <div id="promotion"></div> *@
+<h2>Music Stre Home Page</h2>
+
+<h3><em>Fresh</em>off the grill</h3>
+<ul id="mainHome">
+    @foreach (var album in Model.RandomAlbums)
+    {
+    <li>
+        <a href="@Url.Action("Details", "Store", new { id=album.AlbumId})">
+            <p>@album.Title</p>
+
+        </a>
+        <p>by Pink Floyd</p>
+
+        <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+            <img alt="@album.Title" src="@album.AlbumArtUrl" /> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<a>more...</a>
+        </p>
+    </li>
+}
+</ul>
